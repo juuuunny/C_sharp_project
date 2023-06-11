@@ -1,0 +1,30 @@
+C:\Users\박준형\source\repos\c#_project2\c#_project2\bin\Debug\net6.0\c#_project2.exe
+C:\Users\박준형\source\repos\c#_project2\c#_project2\bin\Debug\net6.0\c#_project2.deps.json
+C:\Users\박준형\source\repos\c#_project2\c#_project2\bin\Debug\net6.0\c#_project2.runtimeconfig.json
+C:\Users\박준형\source\repos\c#_project2\c#_project2\bin\Debug\net6.0\c#_project2.dll
+C:\Users\박준형\source\repos\c#_project2\c#_project2\bin\Debug\net6.0\c#_project2.pdb
+C:\Users\박준형\source\repos\c#_project2\c#_project2\obj\Debug\net6.0\c#_project2.csproj.AssemblyReference.cache
+C:\Users\박준형\source\repos\c#_project2\c#_project2\obj\Debug\net6.0\c#_project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박준형\source\repos\c#_project2\c#_project2\obj\Debug\net6.0\c#_project2.AssemblyInfoInputs.cache
+C:\Users\박준형\source\repos\c#_project2\c#_project2\obj\Debug\net6.0\c#_project2.AssemblyInfo.cs
+C:\Users\박준형\source\repos\c#_project2\c#_project2\obj\Debug\net6.0\c#_project2.csproj.CoreCompileInputs.cache
+C:\Users\박준형\source\repos\c#_project2\c#_project2\obj\Debug\net6.0\c#_project2.dll
+C:\Users\박준형\source\repos\c#_project2\c#_project2\obj\Debug\net6.0\refint\c#_project2.dll
+C:\Users\박준형\source\repos\c#_project2\c#_project2\obj\Debug\net6.0\c#_project2.pdb
+C:\Users\박준형\source\repos\c#_project2\c#_project2\obj\Debug\net6.0\c#_project2.genruntimeconfig.cache
+C:\Users\박준형\source\repos\c#_project2\c#_project2\obj\Debug\net6.0\ref\c#_project2.dll
+C:\Users\박준형\OneDrive\바탕 화면\SecondProject\bin\Debug\net6.0\c#_project2.exe
+C:\Users\박준형\OneDrive\바탕 화면\SecondProject\bin\Debug\net6.0\c#_project2.deps.json
+C:\Users\박준형\OneDrive\바탕 화면\SecondProject\bin\Debug\net6.0\c#_project2.runtimeconfig.json
+C:\Users\박준형\OneDrive\바탕 화면\SecondProject\bin\Debug\net6.0\c#_project2.dll
+C:\Users\박준형\OneDrive\바탕 화면\SecondProject\bin\Debug\net6.0\c#_project2.pdb
+C:\Users\박준형\OneDrive\바탕 화면\SecondProject\obj\Debug\net6.0\c#_project2.csproj.AssemblyReference.cache
+C:\Users\박준형\OneDrive\바탕 화면\SecondProject\obj\Debug\net6.0\c#_project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박준형\OneDrive\바탕 화면\SecondProject\obj\Debug\net6.0\c#_project2.AssemblyInfoInputs.cache
+C:\Users\박준형\OneDrive\바탕 화면\SecondProject\obj\Debug\net6.0\c#_project2.AssemblyInfo.cs
+C:\Users\박준형\OneDrive\바탕 화면\SecondProject\obj\Debug\net6.0\c#_project2.csproj.CoreCompileInputs.cache
+C:\Users\박준형\OneDrive\바탕 화면\SecondProject\obj\Debug\net6.0\c#_project2.dll
+C:\Users\박준형\OneDrive\바탕 화면\SecondProject\obj\Debug\net6.0\refint\c#_project2.dll
+C:\Users\박준형\OneDrive\바탕 화면\SecondProject\obj\Debug\net6.0\c#_project2.pdb
+C:\Users\박준형\OneDrive\바탕 화면\SecondProject\obj\Debug\net6.0\c#_project2.genruntimeconfig.cache
+C:\Users\박준형\OneDrive\바탕 화면\SecondProject\obj\Debug\net6.0\ref\c#_project2.dll
